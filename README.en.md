@@ -319,3 +319,9 @@ Contributions to this project are welcome! You can participate in the following 
 ## 📜 License
 
 This project is licensed under the MIT License, see the LICENSE file for details.
+
+## 👨‍💻 Author
+
+- ZsTs119
+- Email: zsts@foxmail.com
+- GitHub: https://github.com/ZsTs119

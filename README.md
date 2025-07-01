@@ -319,3 +319,9 @@ python batch_classify_md.py 2024-06-11 模型分类.md
 ## 📜 许可证
 
 本项目采用 MIT 许可证，详情请参见 LICENSE 文件。
+
+## 👨‍💻 作者
+
+- ZsTs119
+- Email: zsts@foxmail.com
+- GitHub: https://github.com/ZsTs119
