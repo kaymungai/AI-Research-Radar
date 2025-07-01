@@ -1,0 +1,20 @@
+# HF 每日论文批量下载与分析系统依赖
+# Python 3.11.9
+
+# 网络请求
+requests>=2.31.0
+
+# 进度条显示
+tqdm>=4.66.0
+
+# 智谱AI SDK - 用于GLM-4模型调用
+zhipuai>=1.0.7
+
+# 火山引擎方舟大模型SDK
+volcenginesdkarkruntime>=0.2.4
+
+# 可选依赖
+# 如果需要处理特定文件格式，可能需要以下依赖
+beautifulsoup4>=4.12.0  # 用于HTML解析
+markdown>=3.5.1         # 处理Markdown文件
+pandas>=2.0.0           # 数据处理 
